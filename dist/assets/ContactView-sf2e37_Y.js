@@ -1,0 +1,1 @@
+import{_ as t,o as c,c as o}from"./index-Bk2VTW0V.js";const e={},s={class:"contact"};function n(r,a){return c(),o("h1",s,"This is router for Contact")}const f=t(e,[["render",n]]);export{f as default};
